@@ -1,0 +1,5 @@
+black, surface rust, missing paint
+box:22x4x3
+
+bin:FS-C
+wt:2
